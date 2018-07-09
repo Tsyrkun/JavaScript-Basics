@@ -108,4 +108,4 @@ list.subscribe('removeAll', () => {
 list.add(4, 5, 2)(3, 7).add(14);
 list.add(228);
 list.remove(1);
-list.removeAll();
+list.removeAll()
